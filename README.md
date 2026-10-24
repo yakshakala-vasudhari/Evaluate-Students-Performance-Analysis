@@ -151,7 +151,7 @@ The results are based on a single train/test split. Further evaluation would be 
 
    `python analyze_students.py`
 
-To evaluate the machine-learning models, run 'python evaluate-student-performance.py'
+To evaluate the machine-learning models, run `python evaluate-student-performance.py`
 
 ## Future Improvements
 
