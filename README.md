@@ -6,7 +6,7 @@ This project explores student academic performance using Python, data analysis, 
 
 The initial research question is:
 
-**How does reported week ly study time relate to students' final grades?**
+**How does reported weekly study time relate to students' final grades?**
 
 The project also explores whether selected student characteristics and earlier-period grades can be used to predict final grades.
 
@@ -151,7 +151,7 @@ The results are based on a single train/test split. Further evaluation would be 
 
    `python analyze_students.py`
 
-To evaluate the machine-learning models, run the corresponding evaluation script.
+To evaluate the machine-learning models, run 'python evaluate-student-performance.py'
 
 ## Future Improvements
 
