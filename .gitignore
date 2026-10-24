@@ -1,0 +1,16 @@
+# Dataset files (keep local; do not publish)
+student-mat.csv
+student.zip
+
+# macOS and Python-generated files
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment files
+.env
+
+# Test image
+matplotlib_test.png
